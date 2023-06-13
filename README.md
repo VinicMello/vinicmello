@@ -1,5 +1,5 @@
-### Bem vindo ao meu perfil!
-### Me chamo Vinicius de Mello Pedroso
+### Bem vindo ao meu GitHub!
+ Olá, me chamo Vinicius de Mello Pedroso
 
 ##
 <div style="display: inline_block"><br>
