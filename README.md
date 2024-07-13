@@ -1,16 +1,25 @@
-## Hi there 👋
+## Welcome to my GitHub! My name is Vinicius ✋
 
-<!--
-**VinicMello/vinicmello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am studying software engineering and working with analytics engineer.
 
-Here are some ideas to get you started:
+I'm focused on learning about data analytics and architecture. Feel free to see my projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ **Sem dados você é apenas uma pessoa qualquer sem opinião...** 🧠 💭 📚
+
+## Technologies and tools
+
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AIRFLOW](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+![LOOKER](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
+![COLAB](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
+
+
+
+
+
+
+
+
+
